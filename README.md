@@ -38,7 +38,7 @@ The project is built using **Spring Boot** for the backend and **React + Vite** 
 ## 🧱 Tech Stack
 
 ### Backend
-- Java 17+
+- Java 25
 - Spring Boot
 - Spring Security + JWT
 - Hibernate / JPA
